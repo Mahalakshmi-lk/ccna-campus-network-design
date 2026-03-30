@@ -59,4 +59,4 @@ This project demonstrates the design and implementation of a campus network usin
 ---
 
 ## 📁 Project File
-(Add .pkt file here)
+[Download Packet Tracer File](campus-network.pkt)
