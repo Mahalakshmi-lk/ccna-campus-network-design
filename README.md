@@ -49,7 +49,7 @@ This project demonstrates the design and implementation of a campus network usin
 ---
 
 ## 🧩 Network Topology
-(Add your topology diagram here)
+![Topology](screenshots/topology.png)
 
 ---
 
