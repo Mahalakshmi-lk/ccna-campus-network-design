@@ -54,7 +54,27 @@ This project demonstrates the design and implementation of a campus network usin
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+### VLAN Configuration
+![VLAN](screenshots/vlan-config.png)
+Configured VLANs for different departments.
+
+---
+
+### Routing Table
+![Routing](screenshots/routing-table.png)
+Configured routing between networks.
+
+---
+
+### ACL Configuration
+![ACL](screenshots/acl-config.png)
+Applied access control lists for security.
+
+---
+
+### Connectivity Test
+![Ping](screenshots/ping-test.png)
+Verified connectivity using ping (0% packet loss).
 
 ---
 
